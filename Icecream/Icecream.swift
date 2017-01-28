@@ -110,7 +110,7 @@ class Icecream {
             }
             if  index != (favoriteFlavorsOfIceCream.count - 1){
                 output += "\n"
-            } //it really upsets me that index starts at 1
+            } 
         }
         return output
     }
